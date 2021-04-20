@@ -9,7 +9,8 @@ npx react-native init MyApp --template react-native-template-typescript
 
 ### git access denid
 windown + R control /name Microsoft.CredentialManager
-
+### git copy ssh
+https://github.com/LastmileWorks/sonomama-exhibitor-front
 
 ## BRANCHES
 
