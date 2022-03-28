@@ -53,5 +53,10 @@ git push --tags	Push all tags to remote repo.
 git stash save "stash name" && git stash	Save changes to a stash.	
 git stash list	List all stashes.	
 git stash pop	Apply a stash and delete it from stash list.	
+              options={keys ? configChart[keys] : deerChart}
+export const configChart: { [key: string]: Options } = {
+  [portfolioHubHoldingKey]: chartOpions,
+  [portfolioHubRiskReturnAnalysisKey]: deerChart,
+};
 
 
